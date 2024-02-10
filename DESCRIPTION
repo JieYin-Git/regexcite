@@ -26,3 +26,5 @@ LazyData: true
 Remotes: 
     r-lib/withr
 VignetteBuilder: knitr
+URL: https://github.com/JieYin-Git/regexcite
+BugReports: https://github.com/JieYin-Git/regexcite/issues
